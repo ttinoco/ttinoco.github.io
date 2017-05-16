@@ -1,0 +1,95 @@
+= Tomas Tinoco De Rubira
+
+~~~
+{}{img_left}{./pics/tomas31.jpg}{Tomas Tinoco De Rubira}
+\nPostdoctoral Researcher \n
+[http://www.psl.ee.ethz.ch Power Systems Laboratory] \n
+[https://www.ethz.ch/en.html ETH Zurich] \n
+
+Contact \n
+[tomast@eeh.ee.ethz.ch]
+~~~
+
+== Research Interests
+
+- Optimization algorithms and applications
+- Renewable energy integration
+- Computational mathematics
+- Electric power systems
+- Software development
+- Machine learning
+
+== Papers
+
+: {[papers/final_report_adace_2017.pdf Adaptive Certainty-Equivalent Methods for Generation Scheduling Under Uncertainty]}
+  T. Tinoco De Rubira - 2017
+
+: {[papers/ifacconf_2017.pdf Distributed Differentially Private Model Predictive Control for Energy Storage]}
+  M. Zellner, T. Tinoco De Rubira, G. Hug, M. Zeilinger - 2017
+
+: {[papers/powertech2017_line_flow.pdf Conservative Linear Line Flow Constraints for AC Optimal Power Flow]}
+  D. Shchetinin, T. Tinoco De Rubira, G. Hug - 2017
+
+: {[papers/powertech2017_MDPC_TA.pdf Time Aggregation for Privacy-Protecting EMU based on Model-Distribution Predictive Control]}
+  J. Chin, T. Tinoco De Rubira, G. Hug - 2017
+
+: {[papers/multi_stage_2016.pdf Multi-Stage Stochastic Optimization via Parameterized Stochastic Hybrid Approximation]}
+  T. Tinoco De Rubira, L. Roald, G. Hug - 2016
+
+: {[papers/stoch_hyb_pd_2016.pdf Primal-Dual Stochastic Hybrid Approximation Algorithm]}
+  T. Tinoco De Rubira, G. Hug - 2016
+
+: {[https://arxiv.org/abs/1612.05120 Privacy-Protecting Energy Management Unit through Model-Distribution Predictive Control]}
+  J. Chin, T. Tinoco De Rubira, G. Hug - 2016
+
+: {[http://ieeexplore.ieee.org/document/7810455/ Adaptive Certainty-Equivalent Approach for Optimal Generator Dispatch Under Uncertainty]}
+  T. Tinoco De Rubira, G. Hug - 2016
+
+: {[http://ieeexplore.ieee.org/document/7540930/ Extending Complementarity-Based Approach for Handling Voltage Band Regulation in Power Flow]}
+  T. Tinoco De Rubira, A. Wigington - 2016
+
+: {[http://ieeexplore.ieee.org/document/7355997/ Clustering Techniques for Photovoltaic System Simulations Under Nonuniform Irradiance Conditions]}
+  T. Tinoco De Rubira, O. Toole - 2015
+
+: {[papers/Phd_thesis_manuscript.pdf Numerical Optimization and Modeling Techniques for Power System Operations and Planning]}
+  T. Tinoco De Rubira - 2015
+
+: {[http://link.springer.com/article/10.1007/s10589-015-9745-5 A Robust and Informative Method for Solving Large-Scale Power Flow Problems]}
+  W. Murray, T. Tinoco De Rubira, A. Wigington - 2015
+
+: {[http://ieeexplore.ieee.org/document/7131799/ Optimal Power Flow with Limited and Discrete Controls]}
+  W. Murray, T. Tinoco De Rubira, A. Wigington - 2015
+
+: {[http://ieeexplore.ieee.org/document/7131823/ Linear Analysis for Determining and Visualizing Critical Thermal Boundaries of Power Systems]}
+  R. Entriken, W. Murray, T. Tinoco De Rubira - 2015
+
+: {[http://ieeexplore.ieee.org/document/6666905/ Improving the Robustness of Newton-based Power Flow Methods to Cope with Poor Initial Points]}
+  W. Murray, T. Tinoco De Rubira, A. Wigington - 2013
+
+: {[http://ieeexplore.ieee.org/document/4427358/ An Event Driven, Simplified TLM Method for Predicting Path-Loss in Cluttered Environments]}
+  J. Nutaro, P.T. Kuruganti, R. Jammalamadaka, T. Tinoco De Rubira, V. Protopopescu - 2008
+
+== Supervised Theses
+
+: {Performance Analysis and Validation of Optimal Power Flow Solvers of New Open-Source Software Stack}
+  Martin Baltzinger, ETH - 2017
+  
+: {[papers/thesis_jose_2017.pdf Analysis of Adaptive Certainty-Equivalent Techniques for the Stochastic Unit Commitment Problem]}
+  Jose Espejo-Uribe, ETH - 2017
+  
+: {[papers/thesis_martin1_2016.pdf Protecting Privacy in Smart Grids via Distributed Optimization and Differential Privacy]}
+  Martin Zellner, ETH - 2016
+
+== Software and Applications
+
+- [http://pfnet.readthedocs.io PFNET]:  
+  A library for modeling and analyzing electric power networks
+
+- [http://gridopt.readthedocs.io GRIDOPT]:
+  A Python package for power grid optimization
+
+- [http://optalg.readthedocs.io OPTALG]:
+  A Python package with optimization algorithms, wrappers and tools
+
+- [https://github.com/ttinoco/PSCHUB PSCHub]:
+  A JupyterHub docker container for power systems computing
