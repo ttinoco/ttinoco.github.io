@@ -39,7 +39,7 @@ Contact \n
 : {[papers/stoch_hyb_pd_2016.pdf Primal-Dual Stochastic Hybrid Approximation Algorithm]}
   T. Tinoco De Rubira, G. Hug - 2016
 
-: {[https://arxiv.org/abs/1612.05120 Privacy-Protecting Energy Management Unit through Model-Distribution Predictive Control]}
+: {[http://ieeexplore.ieee.org/document/7924340/ Privacy-Protecting Energy Management Unit through Model-Distribution Predictive Control]}
   J. Chin, T. Tinoco De Rubira, G. Hug - 2016
 
 : {[http://ieeexplore.ieee.org/document/7810455/ Adaptive Certainty-Equivalent Approach for Optimal Generator Dispatch Under Uncertainty]}
@@ -71,7 +71,7 @@ Contact \n
 
 == Supervised Theses
 
-: {Performance Analysis and Validation of Optimal Power Flow Solvers of New Open-Source Software Stack}
+: {[papers/thesis_martin2_2017.pdf Performance Analysis and Validation of Optimal Power Flow Solvers of New Open-Source Software Stack]}
   Martin Baltzinger, ETH - 2017
   
 : {[papers/thesis_jose_2017.pdf Analysis of Adaptive Certainty-Equivalent Techniques for the Stochastic Unit Commitment Problem]}

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-~/Desktop/Software/jemdoc/jemdoc.py index.jemdoc
+python ~/Desktop/Software/jemdoc/jemdoc.py index.jemdoc
