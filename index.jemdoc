@@ -27,10 +27,10 @@ Contact \n
 : {[papers/ifacconf_2017.pdf Distributed Differentially Private Model Predictive Control for Energy Storage]}
   M. Zellner, T. Tinoco De Rubira, G. Hug, M. Zeilinger - 2017
 
-: {[papers/powertech2017_line_flow.pdf Conservative Linear Line Flow Constraints for AC Optimal Power Flow]}
+: {[http://ieeexplore.ieee.org/document/7981156/ Conservative Linear Line Flow Constraints for AC Optimal Power Flow]}
   D. Shchetinin, T. Tinoco De Rubira, G. Hug - 2017
 
-: {[papers/powertech2017_MDPC_TA.pdf Time Aggregation for Privacy-Protecting EMU based on Model-Distribution Predictive Control]}
+: {[http://ieeexplore.ieee.org/document/7981184/ Time Aggregation for Privacy-Protecting EMU based on Model-Distribution Predictive Control]}
   J. Chin, T. Tinoco De Rubira, G. Hug - 2017
 
 : {[papers/multi_stage_2016.pdf Multi-Stage Stochastic Optimization via Parameterized Stochastic Hybrid Approximation]}
