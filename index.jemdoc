@@ -3,10 +3,11 @@
 ~~~
 {}{img_left}{./pics/tomas31.jpg}{Tomas Tinoco De Rubira}
 \nEngineer and Scientist \n
-Mountain View, California \n
+Electric Power Research Institute \n
+Palo Alto, California \n
 
 Contact \n
-[ttinoco5687@gmail.com]
+[ttinoco@epri.com]
 ~~~
 
 == Research Interests
@@ -26,7 +27,7 @@ Contact \n
 : {[papers/ieee_gm_2018.pdf A Modular and Efficient Modeling Library for Power Flow Network Steady-State Analysis and Optimization]}
   M. Baltzinger, T. Tinoco De Rubira, A. Wigington - 2017
 
-: {[papers/pscc_2018.pdf Considering Time Correlation in the Estimation of Privacy Loss for Consumers with Smart Meters]}
+: {[https://ieeexplore.ieee.org/document/8442899/ Considering Time Correlation in the Estimation of Privacy Loss for Consumers with Smart Meters]}
   J. Chin, G. Giaconi, T. Tinoco De Rubira, D. Gündüz, G. Hug - 2017
 
 : {[papers/final_report_adace_2017.pdf Adaptive Certainty-Equivalent Methods for Generation Scheduling Under Uncertainty]}
@@ -79,13 +80,16 @@ Contact \n
 
 == Supervised Theses
 
-: {[papers/thesis_martin2_2017.pdf Performance Analysis and Validation of Optimal Power Flow Solvers of New Open-Source Software Stack]}
+: {[https://www.ethz.ch/content/dam/ethz/special-interest/itet/institute-eeh/power-systems-dam/documents/SAMA/2018/Balzinger-MA-2018.pdf Community Detection in Power Networks: Application to Voltage Control]}
+  Martin Baltzinger, ETH - 2018
+
+: {[https://www.ethz.ch/content/dam/ethz/special-interest/itet/institute-eeh/power-systems-dam/documents/SAMA/2017/Baltzinger-SA-2017.pdf Performance Analysis and Validation of Optimal Power Flow Solvers of New Open-Source Software Stack]}
   Martin Baltzinger, ETH - 2017
   
-: {[papers/thesis_jose_2017.pdf Analysis of Adaptive Certainty-Equivalent Techniques for the Stochastic Unit Commitment Problem]}
+: {[https://www.ethz.ch/content/dam/ethz/special-interest/itet/institute-eeh/power-systems-dam/documents/SAMA/2017/Espejo-Uribe-MA-2017.pdf Analysis of Adaptive Certainty-Equivalent Techniques for the Stochastic Unit Commitment Problem]}
   Jose Espejo-Uribe, ETH - 2017
   
-: {[papers/thesis_martin1_2016.pdf Protecting Privacy in Smart Grids via Distributed Optimization and Differential Privacy]}
+: {[https://www.ethz.ch/content/dam/ethz/special-interest/itet/institute-eeh/power-systems-dam/documents/SAMA/2016/Zellner-MA-2016.pdf Protecting Privacy in Smart Grids via Distributed Optimization and Differential Privacy]}
   Martin Zellner, ETH - 2016
 
 == Software and Applications
