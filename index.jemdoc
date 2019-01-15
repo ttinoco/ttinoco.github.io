@@ -109,5 +109,8 @@ Contact \n
 - [http://optalg.readthedocs.io OPTALG]:
   A Python package with optimization algorithms, wrappers and tools
 
+- [http://github.com/ttinoco/OPTMOD OPTMOD]:
+  An experimental modeling layer for OPTALG with automatic sparse first and second derivatives.
+
 - [https://github.com/ttinoco/PSCHUB PSCHub]:
   A JupyterHub docker container for power systems computing
