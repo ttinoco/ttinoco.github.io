@@ -14,7 +14,7 @@ Contact \n
 
 - Numerical optimization
 - Renewable energy integration
-- Computational software
+- Software development
 - Electric power systems
 
 == Papers
@@ -100,6 +100,9 @@ Contact \n
   Martin Zellner, ETH - 2016
 
 == Software and Applications
+
+- [https://docs.rs/numopt NUMOPT]:
+  A Rust crate with numerical optimization abstractions, solver interfaces, and more
 
 - [http://pfnet.readthedocs.io PFNET]:  
   A library for modeling and analyzing electric power networks
