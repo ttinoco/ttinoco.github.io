@@ -1,7 +1,7 @@
 = Tomas Tinoco De Rubira
 
 ~~~
-{}{img_left}{./pics/tomas31.jpg}{Tomas Tinoco De Rubira}
+{}{img_left}{./pics/tomas4.gif}{Tomas Tinoco De Rubira}{160}
 \nEngineer \n
 Power Systems Technology Development \n
 California Independent System Operator \n
@@ -21,6 +21,9 @@ Contact \n
 - Python and Rust
 
 == Papers
+
+: {[https://ieeexplore.ieee.org/document/9645359 Alternating Optimization Approach for Voltage-Secure Multi-Period Optimal Reactive Power Dispatch]}
+  T. Ibrahim, T. Tinoco De Rubira, A. Del Rosso, M. Patel, S. Guggilam, A. Mohamed - 2021
 
 : {[papers/cigre_2019.pdf Voltage Stability Contingency Screening and Ranking for Voltage Control Areas]}
   T. Ibrahim, K. Dowling, T. Tinoco De Rubira, A. Del Rosso, M. Patel, A. Mohamed - 2019
@@ -105,7 +108,7 @@ Contact \n
 == Software and Applications
 
 - [https://docs.rs/numopt NUMOPT]:
-  A Rust crate with numerical optimization abstractions, solver interfaces, and more
+  A Rust crate with numerical optimization abstractions, solver interfaces, algebraic modeling, and more
 
 - [http://pfnet.readthedocs.io PFNET]:  
   A library for modeling and analyzing electric power networks
