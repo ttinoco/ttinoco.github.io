@@ -107,6 +107,9 @@ Contact \n
 
 == Software and Applications
 
+- [https://github.com/Fuinn MOS]:
+  A service for the deployment, analysis, and management of mathematical optimization models
+
 - [https://docs.rs/numopt NUMOPT]:
   A Rust crate with numerical optimization abstractions, solver interfaces, algebraic modeling, and more
 
