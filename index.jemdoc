@@ -2,7 +2,7 @@
 
 ~~~
 {}{img_left}{./pics/tomas4.gif}{Tomas Tinoco De Rubira}{160}
-\nEngineer \n
+\nSenior Engineer \n
 Power Systems Technology Development \n
 California Independent System Operator \n
 
@@ -12,15 +12,21 @@ Contact \n
 
 == Interests
 
-- Abstractions and APIs
 - Mathematical optimization
 - Electricity markets
 - Renewable energy integration
+- Abstractions and APIs
 - Software development
 - Electric power systems
 - Python and Rust
 
 == Papers
+
+: {[https://cigre-usnc.org/wp-content/uploads/2022/10/2C-3_Guggilam.pdf EPRI-CPLANET: Controlled Planning Expansion Tool with Corrective and Preventive Control]}
+  S. Guggilam, A. Del Rosso, T. Tinoco De Rubira - 2022
+
+: {[https://arxiv.org/abs/2210.03813 MOS: A Mathematical Optimization Service]}
+  J. Merrick, T. Tinoco De Rubira - 2022
 
 : {[https://ieeexplore.ieee.org/document/9645359 Alternating Optimization Approach for Voltage-Secure Multi-Period Optimal Reactive Power Dispatch]}
   T. Ibrahim, T. Tinoco De Rubira, A. Del Rosso, M. Patel, S. Guggilam, A. Mohamed - 2021
